@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://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@github.com/Millasilishe/alx-system_engineering-devops.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
